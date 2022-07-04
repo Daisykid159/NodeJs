@@ -1,0 +1,29 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon --inspect ./index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Daisykid159/NodeJs.git"
+  },
+  "keywords": [
+    "nodejs"
+  ],
+  "author": "vudung",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Daisykid159/NodeJs/issues"
+  },
+  "homepage": "https://github.com/Daisykid159/NodeJs#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.18"
+  }
+}
