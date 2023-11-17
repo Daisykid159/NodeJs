@@ -57,6 +57,18 @@ const data = [
     price: 10000,
     quantity: 10,
   },
+  {
+    id: 7,
+    name: "Bánh mì",
+    price: 10000,
+    quantity: 10,
+  },
+  {
+    id: 8,
+    name: "Bánh mì",
+    price: 10000,
+    quantity: 10,
+  },
 ];
 
 const listsp = [];
